@@ -1,0 +1,1 @@
+CUDA_VISIBLE_DEVICES=7 python offline_patchMatch_textureSwap.py --data_folder data/train/360image_2k_60

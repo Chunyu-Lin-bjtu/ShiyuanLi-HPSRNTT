@@ -1,0 +1,1 @@
+CUDA_VISIBLE_DEVICES=2 python test_near_region22.py
